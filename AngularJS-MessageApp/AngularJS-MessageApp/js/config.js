@@ -1,10 +1,10 @@
 myapp.config(function($routeProvider, $locationProvider){
     $locationProvider.hashPrefix('!');
-	$routeProvider.when("/", {
+	$routeProvider.when("/login", {
 		templateUrl: '../Clients/login.html',
 		controller: 'loginController'
 	})
-	.when("/home", {
+	.when("/", {
 		templateUrl: '../Clients/home.html',
 		controller: 'homeController'
 	})

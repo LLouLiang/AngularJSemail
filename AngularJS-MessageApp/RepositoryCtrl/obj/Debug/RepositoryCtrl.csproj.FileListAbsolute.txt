@@ -4,3 +4,10 @@
 \\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.csprojResolveAssemblyReference.cache
 \\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.exe
 \\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.pdb
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\bin\Debug\RepositoryCtrl.exe.config
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\bin\Debug\RepositoryCtrl.exe
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\bin\Debug\RepositoryCtrl.pdb
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.csprojResolveAssemblyReference.cache
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.csproj.CoreCompileInputs.cache
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.exe
+C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.pdb

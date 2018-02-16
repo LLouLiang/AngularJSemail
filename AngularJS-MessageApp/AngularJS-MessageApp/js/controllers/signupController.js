@@ -21,6 +21,6 @@ myapp.controller("signupController", function ($scope,$location) {
 			localStorage.setItem("all_users", JSON.stringify(usersarray));
 			console.log(JSON.parse(localStorage.getItem("all_users")));
 		}
-		$location.path('/');
+		$location.path('/login');
 	}
 });

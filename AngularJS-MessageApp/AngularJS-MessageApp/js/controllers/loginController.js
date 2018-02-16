@@ -11,7 +11,7 @@ myapp.controller("loginController", function ($scope, authService,$location, $ro
 			let login_user = {};
 			login_user = authService.findUser(user);
 			localStorage.setItem("active_user", JSON.stringify(login_user));
-			$location.path('/home');
+			$location.path('/');
 			$rootScope.authVal = true;
 		}
 	}
