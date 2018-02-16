@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\bin\Debug\RepositoryCtrl.exe.config
+\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\bin\Debug\RepositoryCtrl.exe
+\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\bin\Debug\RepositoryCtrl.pdb
+\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.exe
+\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\RepositoryCtrl\obj\Debug\RepositoryCtrl.pdb

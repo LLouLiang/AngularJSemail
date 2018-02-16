@@ -1,0 +1,39 @@
+<div>
+	<form ng-submit="onSignUp()">
+		<fieldset>
+			<div class="form-group">
+				<label class="col-form-label" for="inputusername">UserName</label>
+				<input type="text" class="form-control" placeholder="user name" ng-model="signup_username" id="username_input">
+			</div>
+			<div class="form-group">
+				<label for="password">Password</label>
+				<input type="password" class="form-control" id="password" ng-model="signup_pwd" placeholder="Password">
+			</div>
+			<div class="form-group">
+				<label for="confirm_password">Confirm Password</label>
+				<input type="password" class="form-control" id="confirm_password" ng-model="signup_confirmpwd" placeholder="Password">
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" for="Firstname">Firstname</label>
+				<input type="text" class="form-control" placeholder="Firstname" ng-model="signup_firstname" id="firstname_input">
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" for="Lastname">Lastname</label>
+				<input type="text" class="form-control" placeholder="Lastname" ng-model="signup_lastname" id="lastname_input">
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" for="Email">Email</label>
+				<input type="email" class="form-control" placeholder="Email" ng-model="signup_email" id="email_input">
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" for="Phone">Phone</label>
+				<input type="number" class="form-control" placeholder="Phone" ng-model="signup_phone" id="phone_input">
+			</div>
+			<div class="form-group">
+				<label class="col-form-label" for="Location">Location</label>
+				<input type="text" class="form-control" placeholder="Location" ng-model="signup_location" id="location_input">
+			</div>
+			<button type="submit" class="btn btn-secondary">Sign Up</button><a ng-href="#!/" class="card-link">Already have an account!</a>
+		</fieldset>
+	</form>
+</div>

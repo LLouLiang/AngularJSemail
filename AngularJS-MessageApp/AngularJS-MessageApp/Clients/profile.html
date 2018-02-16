@@ -1,0 +1,46 @@
+<div class="row col-lg-12">
+	<h2 class="text-muted">Hello {{profile_username}}! This is you profile</h2>
+</div>
+<!--i.	Username
+ii.	Password
+iii.	Firstname
+iv.	Lastname
+v.	Email
+vi.	Phone
+Location
+	set as custom directive
+	-->
+<div class="row">
+	<div class="col-lg-6">
+		<fieldset>
+			<div class="form-group">
+				<label class="col-form-label">User Name</label>
+				<p class="text-success"><span id="userName">{{profile_username}}</span></p>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label">First Name</label>
+				<p class="text-success"><span id="firstName">{{profile_firstname}}</span></p>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label">Last Name</label>
+				<p class="text-success"><span id="lastName">{{profile_lastname}}</span></p>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label">Email</label>
+				<p class="text-success"><span id="email">{{profile_email}}</span></p>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label">Phone</label>
+				<p class="text-success"><span>{{profile_phone}}</span></p>
+			</div>
+			<div class="form-group">
+				<label class="col-form-label">Location</label>
+				<p class="text-success"><span>{{profile_location}}</span></p>
+			</div>
+		</fieldset>
+		<button class="btn btn-warning" ng-click="onUpdateProfile()">Edit</button>
+	</div>
+	<div class="col-lg-6" ng-show="active">
+		<div username="profile_username" isactive="active" firstname="profile_firstname" lastname="profile_lastname" password="profile_password" email="profile_email" phone="profile_phone" location="profile_location" update-form></div>
+	</div>
+</div>

@@ -1,0 +1,20 @@
+﻿<div class="card mb-3">
+	<h3 class="card-header">{{detail.title}}</h3>
+	<div class="card-body">
+		<h5 class="card-title"><img style="height: 20px; width: 20px; display: inline-block;" src="../Assets/HomeLogo.jpg" alt="Card image">{{detail.sender}} says:</h5>
+		<h6 class="card-subtitle text-muted">{{detail.description}}</h6>
+	</div>
+	<div class="card-body">
+		<button type="button" class="btn btn-outline-success" ng-click="onReply()">Reply</button>
+		<button type="button" class="btn btn-outline-danger" ng-click="onDelete()">Delete</button>
+	</div>
+	<div class="card-footer text-muted">
+		<p><span>{{detail.created_at | date:'mm-dd-yyyy'}}</span></p>
+		<button ng-show="isImportant" class="btn btn-outline-warning" ng-click="onSetImportant()">Mark as Important</button>
+		<button ng-show="!isImportant" class="btn btn-outline-warning" ng-click="onReset()">Reset</button>
+		<button class="btn btn-outline-info" style="float:right" ng-click="onBack()">Back</button>
+	</div>
+</div>
+<div id="replydiv" ng-show="showreply" class="col-lg-12">
+	<div replysection></div>
+</div>

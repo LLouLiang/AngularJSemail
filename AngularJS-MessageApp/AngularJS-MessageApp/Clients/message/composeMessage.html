@@ -1,0 +1,14 @@
+﻿<div>
+	<div class="card border-primary mb-3" style="max-width: 20rem;">
+		<div class="card-header">
+			<input type="text" class="form-control" placeholder="To" ng-model="compose_recipient" />
+		</div>
+		<div class="card-body">
+			<input class="form-control" type="text" placeholder="Subject (Title)" ng-model="compose_title">
+		</div>
+		<div class="card-footer">
+			<input class="form-control" type="text" placeholder="Description" ng-model="compose_description">
+		</div>
+		<button class="btn btn-outline-success" ng-click="onSend()">Send</button>
+	</div>
+</div>
