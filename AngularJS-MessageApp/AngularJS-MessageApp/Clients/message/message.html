@@ -1,14 +1,14 @@
 <div class="row">
 	<div class="col-lg-12">
 		<button class="btn btn-primary" ng-click="onCompose()" ng-disabled="isReply">Compose</button>
-		<button ng-click="onDetailHide()">Close all tags</button>
+		<button ng-click="onDetailHide()" class="btn btn-outline-warning">Close all tags</button>
 		<div class="col-lg-12" ng-show="showdiv">
 			<div compose></div>
 		</div>
 	</div>
 	<div class="col-lg-12">
 		<ul ng-repeat="msg in messages">
-			<li>{{msg.sender}}<button ng-click="showDetail($index)">detail</button><div class="detailcard" id="{{$index}}_detail" style="display:none" detail="msg"></div></li>
+			<li>{{msg.sender}}<button class="btn btn-outlint-success" ng-click="showDetail($index)">detail</button><div class="detailcard" id="{{$index}}_detail" style="display:none" detail="msg"></div></li>
 		</ul>
 	</div>
 </div>

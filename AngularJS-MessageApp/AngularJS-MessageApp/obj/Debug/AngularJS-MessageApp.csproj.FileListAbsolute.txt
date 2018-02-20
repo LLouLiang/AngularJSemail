@@ -1,69 +1,103 @@
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csc.exe
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csc.exe.config
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csc.rsp
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csi.exe
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csi.rsp
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CSharp.Core.targets
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.AppContext.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.Collections.Immutable.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.Diagnostics.StackTrace.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.IO.FileSystem.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.Reflection.Metadata.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\vbc.exe
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\vbc.exe.config
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\vbc.rsp
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\VBCSCompiler.exe
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\VBCSCompiler.exe.config
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\AngularJS-MessageApp.dll.config
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\AngularJS-MessageApp.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\AngularJS-MessageApp.pdb
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.dll
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.pdb
-\\psf\home\documents\visual studio 2017\Projects\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.csprojResolveAssemblyReference.cache
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csc.exe
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csc.exe.config
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csc.rsp
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csi.exe
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\csi.rsp
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.AppContext.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\vbc.exe
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\vbc.exe.config
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\vbc.rsp
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\VBCSCompiler.exe
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\AngularJS-MessageApp.dll.config
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\AngularJS-MessageApp.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\AngularJS-MessageApp.pdb
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.csprojResolveAssemblyReference.cache
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.csproj.CoreCompileInputs.cache
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.dll
-C:\Users\tracy\Source\Repos\AngularJSemail2\AngularJS-MessageApp\AngularJS-MessageApp\obj\Debug\AngularJS-MessageApp.pdb
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.exe
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.exe.config
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.rsp
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csi.exe
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csi.rsp
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CSharp.Core.targets
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.VisualBasic.Core.targets
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.AppContext.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Collections.Immutable.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Diagnostics.StackTrace.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.IO.FileSystem.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.IO.FileSystem.Primitives.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Reflection.Metadata.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.exe
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.exe.config
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.rsp
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/VBCSCompiler.exe
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/VBCSCompiler.exe.config
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.dll.config
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.pdb
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.dll
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.pdb
+//psf/home/documents/visual studio 2017/Projects/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.csprojResolveAssemblyReference.cache
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.exe
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.exe.config
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.rsp
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csi.exe
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csi.rsp
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CSharp.Core.targets
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.VisualBasic.Core.targets
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.AppContext.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Collections.Immutable.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Diagnostics.StackTrace.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.IO.FileSystem.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.IO.FileSystem.Primitives.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Reflection.Metadata.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.exe
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.exe.config
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.rsp
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/VBCSCompiler.exe
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/VBCSCompiler.exe.config
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.dll.config
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.pdb
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.csprojResolveAssemblyReference.cache
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.csproj.CoreCompileInputs.cache
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.dll
+C:/Users/tracy/Source/Repos/AngularJSemail2/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.pdb
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.exe
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.exe.config
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csc.rsp
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csi.exe
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/csi.rsp
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.AppContext.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Collections.Immutable.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.IO.FileSystem.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/System.Reflection.Metadata.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.exe
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.exe.config
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/vbc.rsp
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/VBCSCompiler.exe
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/roslyn/VBCSCompiler.exe.config
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/AngularJS-MessageApp.pdb
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.csprojResolveAssemblyReference.cache
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.dll
+/Users/apple/Projects/LLouLiang/AngularJSemail.git/AngularJS-MessageApp/AngularJS-MessageApp/obj/Debug/AngularJS-MessageApp.pdb
